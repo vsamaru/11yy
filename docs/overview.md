@@ -5,7 +5,7 @@ eleventyNavigation:
 permalink: /docs/
 ---
 
-# {{ "Eleventy is a simpler static site generator." | orphanWrap | safe }}
+# {{ "прівєт кіса" | orphanWrap | safe }}
 
 Eleventy was created to be a JavaScript alternative to Jekyll. It’s <a href="/docs/resources/#zero-config" class="buzzword">zero-config</a> by default but has flexible configuration options. Eleventy **works with your project’s existing directory structure.**
 
